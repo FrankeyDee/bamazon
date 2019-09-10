@@ -1,0 +1,12 @@
+item_id,"product_name","department_name",price,stock_quantity
+1,"Slippers","Home",8.99,21
+2,"Mirror","Bath",19.23,25
+3,"Watch","Accessories",75.99,3
+4,"Clothes","Clothes",45.00,15
+5,"Window","Home",700.00,10
+6,"Nail Clippers","Beauty",2.99,30
+7,"Persian Rug","Home",545.00,3
+8,"Abstract Art","Decoration",890.00,10
+9,"Heart Pillow","Bedding",19.99,35
+10,"Salvation Army Knife","Kitchen",23.49,17
+11,"Caffe Americano","Food",8.99,30
