@@ -7,3 +7,5 @@ Bamazon is a storefront where customers are able to browse through items offered
     * If product is out of stock, a message will alert the customer
 
 [GIF of bamazon in action](./bamazon.gif)
+
+<img src="./bamazon.gif">
